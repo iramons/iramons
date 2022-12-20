@@ -8,16 +8,18 @@
 - 🌱 Atualmente estou aprendendo mais sobre SwiftUI
 - 👯 Estou procurando colaborar em projetos Open Source
 - 💬 Pergunte-me sobre o que eu gosto de fazer nas horas vagas e essa conversa vai longe. haha
-- 📫 Como entrar em contato comigo: Através do email tebram.dev@gmail.com ou pelo telefone (21)97343-5195
 - ⚡ Curiosidade: Gosto de empreender
 
 
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="200" height="160"/>
-
-
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"  width="100" height="100" />
+</div>
+       
 
 ## Estatísticas
 
@@ -30,3 +32,11 @@
 
 
 ![Snake animation](https://github.com/iramons/iramons/blob/output/github-contribution-grid-snake.svg)
+
+
+## Contatos
+
+<div>
+<a href = "mailto:tebram.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marbet-ramon-673b9b103" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
