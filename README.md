@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, me chamo Ramon ! 👋
+## Bem vindo ao meu perfil no GitHub
 
-<!--
-**iramons/iramons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando na Mesa Mobile Thinking
+- 🌱 Atualmente estou aprendendo mais sobre SwiftUI
+- 👯 Estou procurando colaborar em projetos Open Source
+- 💬 Pergunte-me sobre o que eu gosto de fazer nas horas vagas e essa conversa vai longe. haha
+- 📫 Como entrar em contato comigo: Através do email tebram.dev@gmail.com ou pelo telefone (21)97343-5195
+- ⚡ Curiosidade: Gosto de empreender
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iramonslayout=compact)](https://github.com/iramons/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iramons&show_icons=true&theme=radical)
+
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="200" height="160"/>
+
+![Snake animation](https://github.com/iramons/iramons/blob/output/github-contribution-grid-snake.svg)
