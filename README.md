@@ -15,22 +15,24 @@
 ## Ferramentas e Tecnologias
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="100" height="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="90" height="90" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"  width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="100" height="100" />
 </div>
-       
+
 
 ## Estatísticas
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iramons&theme=darkhub&no-frame=true&row=1)](https://github.com/iramons/github-profile-trophy)
+
 
 <div>
 <a href="https://github.com/iramons">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramons&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iramons&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
+       
+    
 ![Snake animation](https://github.com/iramons/iramons/blob/output/github-contribution-grid-snake.svg)
 
 
