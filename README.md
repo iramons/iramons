@@ -4,8 +4,7 @@
 
 ## Bem vindo ao meu perfil no GitHub
 
-- 🔭 Atualmente eu trabalho na Mesa Mobile Thinking como Chapter Leader e Senior Mobile Engineer
-- 🌱 Atualmente estou aprendendo sobre SwiftUI
+- 🔭 Atualmente eu estou a procura de vagas como Senior iOS Engineer e Tech Lead
 - 👯 Estou procurando colaborar em projetos Open Source
 - 💬 Pergunte-me sobre o que eu gosto de fazer nas horas vagas e essa conversa vai longe. haha
 - ⚡ Curiosidade: Gosto de empreender e criar novos projetos inovadores
