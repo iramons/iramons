@@ -12,7 +12,7 @@
 
 
 
-## Tools, Technologies and Frameworks
+## Principal Tools, Technologies and Frameworks
 
 <div>
 iOS | Swift | XCode | XCTest | MVVM | Alamofire | Combine | RxSwift | Coordinator | Clean Code | Design Patterns | ViewCode | UIKit | Storyboard | .XIB
