@@ -4,18 +4,19 @@
 
 ## Welcome to my github profile
 
-- 🔭 I am currently looking for positions as iOS Engineer or Technical Lead
+- 🔭 I am currently looking for positions as iOS Engineer or Mobile Tech Lead
 - 👥 I'm looking to collaborate on Open Source projects and partner
 - 💬 Ask me what I like to do in my free time and this conversation goes a long way. haha
 - ⚡ Curiosity: I like to undertake and create new innovative projects
-- 📚 Studying SwiftUI
+- 📚 Focusing my studies in SwiftUI
+- 🧠 Entrepreneur
 
 
 
 ## Principal Tools, Technologies and Frameworks
 
 <div>
-iOS | Swift | XCode | XCTest | MVVM | Alamofire | Combine | Coordinator | Clean Code | Design Patterns | ViewCode | UIKit | Storyboard | .XIB
+iOS | SwiftUI | Swift | XCode | XCTest | MVVM | Alamofire | Combine | Clean | Design Patterns | ViewCode | UIKit
 </div>
 
 
