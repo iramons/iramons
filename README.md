@@ -1,32 +1,16 @@
-# Hello, I'm Ramon ! 👋
-
-
+# Hi, I'm Ramon ! 👋
 
 ## Welcome to my github profile
 
-- 🔭 I am currently looking for positions as iOS Engineer or Mobile Tech Lead
-- 👥 I'm looking to collaborate on Open Source projects and partner
-- 💬 Ask me what I like to do in my free time and this conversation goes a long way. haha
-- ⚡ Curiosity: I like to undertake and create new innovative projects
+- 👥 I'm looking to collaborate on open source projects and partner
+- ⚡ I like to undertake and create new innovative projects
 - 📚 Focusing my studies in SwiftUI
-- 🧠 Entrepreneur
-
-
+- 💡 Entrepreneurial spirit
 
 ## Principal Tools, Technologies and Frameworks
 
-<div>
-iOS | SwiftUI | Swift | XCode | XCTest | MVVM | Alamofire | Combine | Clean | Design Patterns | ViewCode | UIKit
-</div>
-
-
-## Statistics
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iramons&theme=darkhub&no-frame=true&row=2)](https://github.com/iramons/github-profile-trophy)
-
-
-![Snake animation](https://github.com/iramons/iramons/blob/output/github-contribution-grid-snake.svg)
-
+- iOS | SwiftUI | Swift | XCode | XCTest | MVVM | Alamofire | Clean Code | Clean Architecture
+- Design Patterns | ViewCode | UIKit | Mapkit | GoogleMaps
 
 ## Contacts
 
