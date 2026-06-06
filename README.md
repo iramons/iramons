@@ -1,18 +1,18 @@
-# Hi, I'm Ramon ! 👋
+## Hi, I'm Ramon ! 👋
 
-## Welcome to my github profile
+# About me
 
 - 👥 I'm looking to collaborate on open source projects and partner
 - ⚡ I like to undertake and create new innovative projects
 - 📚 Focusing my studies in AI
 - 💡 Entrepreneurial spirit
 
-## Principal Tools, Technologies and Frameworks
+# Principal Tools, Technologies and Frameworks
 
-- iOS | SwiftUI | Swift | XCode | XCTest | MVVM | Alamofire | Clean Code | Clean Architecture
-- Design Patterns | UIKit | Mapkit | GoogleMaps | Claude Code | Codex | Gemini
+- iOS | SwiftUI | Swift | XCode | Unit Tests | UI Tests | MVVM | Alamofire | Clean Code | Clean Architecture
+- Design Patterns | UIKit | Mapkit | GoogleMaps | Claude Code | Codex | Gemini | Design System | CI/CD
 
-## Contacts
+# Contacts
 
 <div>
 <a href = "mailto:iramonsx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
