@@ -1,6 +1,9 @@
-## Hi, I'm Ramon ! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=90&color=4493F8&duration=4200&lines=Hi+There!+👋;+I'm+Ramon+Santos!;" />
+</h1>
 
 # About me
+#### A senior iOS software engineer passionate about building beautiful, functional, and user-centric mobile applications.
 
 - 👥 I'm looking to collaborate on open source projects and partner
 - ⚡ I like to undertake and create new innovative projects
