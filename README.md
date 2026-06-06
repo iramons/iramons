@@ -4,13 +4,13 @@
 
 - 👥 I'm looking to collaborate on open source projects and partner
 - ⚡ I like to undertake and create new innovative projects
-- 📚 Focusing my studies in SwiftUI
+- 📚 Focusing my studies in AI
 - 💡 Entrepreneurial spirit
 
 ## Principal Tools, Technologies and Frameworks
 
 - iOS | SwiftUI | Swift | XCode | XCTest | MVVM | Alamofire | Clean Code | Clean Architecture
-- Design Patterns | ViewCode | UIKit | Mapkit | GoogleMaps
+- Design Patterns | UIKit | Mapkit | GoogleMaps | Claude Code | Codex | Gemini
 
 ## Contacts
 
