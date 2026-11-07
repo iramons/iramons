@@ -9,6 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/iramons/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://iramons.github.io"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:iramonsx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Niterói%2C%20RJ%20🇧🇷-161B22?style=for-the-badge&logo=googlemaps&logoColor=4493F8" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=iramons&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -78,6 +79,28 @@ struct RamonSantos: Engineer {
 
 ---
 
+## 📱 Apps on the App Store
+
+<div align="center">
+
+**Indie — designed, built and published by me**
+
+<table><tr><td align="center" width="110"><a href="https://apps.apple.com/br/app/assinatura-na-tela/id6776944038"><img src="https://iramons.github.io/assets/6776944038-icon.jpg" width="64" alt="Assinatura na Tela"/></a><br/><sub><b>Assinatura na Tela</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/estations/id6736905411"><img src="https://iramons.github.io/assets/6736905411-icon.jpg" width="64" alt="Postos Elétricos"/></a><br/><sub><b>Postos Elétricos</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/puzzlesnap/id6754261915"><img src="https://iramons.github.io/assets/6754261915-icon.jpg" width="64" alt="PuzzleSnap"/></a><br/><sub><b>PuzzleSnap</b></sub></td></tr></table>
+
+**Shipped at work — Bipa · OneFan · Mesa · Systemsat · Ebix**
+
+<table><tr><td align="center" width="110"><a href="https://apps.apple.com/br/app/bipa-bitcoin-pix-e-cart%C3%A3o/id1516842324"><img src="https://iramons.github.io/assets/1516842324-icon.jpg" width="64" alt="Bipa"/></a><br/><sub><b>Bipa</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/universo-sccp/id1604188025"><img src="https://iramons.github.io/assets/1604188025-icon.jpg" width="64" alt="Universo SCCP"/></a><br/><sub><b>Universo SCCP</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/tfsports/id1251078517"><img src="https://iramons.github.io/assets/1251078517-icon.jpg" width="64" alt="TFSports"/></a><br/><sub><b>TFSports</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/us/app/iscape-landscape-design/id439688430"><img src="https://iramons.github.io/assets/439688430-icon.jpg" width="64" alt="iScape"/></a><br/><sub><b>iScape</b></sub></td></tr><tr><td align="center" width="110"><a href="https://apps.apple.com/br/app/zro-bank-multimoedas/id1528780452"><img src="https://iramons.github.io/assets/1528780452-icon.jpg" width="64" alt="Zro Bank"/></a><br/><sub><b>Zro Bank</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/ssx-mobile/id1556904614"><img src="https://iramons.github.io/assets/1556904614-icon.jpg" width="64" alt="SSX Mobile"/></a><br/><sub><b>SSX Mobile</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/bradesco-seguros/id1256508403"><img src="https://iramons.github.io/assets/1256508403-icon.jpg" width="64" alt="Bradesco Seguros"/></a><br/><sub><b>Bradesco Seguros</b></sub></td><td align="center" width="110"><a href="https://apps.apple.com/br/app/bradesco-sa%C3%BAde/id432088616"><img src="https://iramons.github.io/assets/432088616-icon.jpg" width="64" alt="Bradesco Saúde"/></a><br/><sub><b>Bradesco Saúde</b></sub></td></tr></table>
+
+<sub>+ CR Flamengo and COB — Time Brasil (OneFan)</sub>
+
+<br/><br/>
+
+<a href="https://iramons.github.io"><img src="https://img.shields.io/badge/See%20full%20portfolio%20%E2%86%92-1F6FEB?style=for-the-badge&logo=apple&logoColor=white" alt="See full portfolio"/></a>
+
+</div>
+
+---
+
 ## 🚀 Featured projects
 
 <div align="center">
@@ -103,6 +126,7 @@ Got an idea or a project? **Let's build something together.**
 <br/>
 
 <a href="https://www.linkedin.com/in/iramons/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://iramons.github.io"><img src="https://img.shields.io/badge/View%20portfolio-1F6FEB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:iramonsx@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
